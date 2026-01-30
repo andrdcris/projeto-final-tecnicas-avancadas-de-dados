@@ -62,7 +62,7 @@ This project has an academic and educational purpose and is not a published scie
 - Model evaluation and performance metrics  
 
 ---
-📊 **Academic result**:
+**Academic result**:
 - Final grade: **9.0**
 - Evaluated by the course professors
 - Positive feedback regarding the methodology, clarity of the report, and model application
