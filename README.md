@@ -1,20 +1,30 @@
 # Predição de Risco Cardíaco com Machine Learning
 
-## 📌 Sobre o Projeto
+**Autora:** Cristiane de Andrade Coutinho  
+**Disciplina:** Técnicas Avançadas de Dados  
+**Universidade:** Universidad Católica de Salta (UCASAL) 
+**LinkedIn:** https://www.linkedin.com/in/SEU-LINK-AQUI
 
-Este repositório contém um projeto acadêmico desenvolvido durante meu intercâmbio, como parte da disciplina Técnicas Avançadas de Dados, na qual estudei conceitos teóricos e práticos de Machine Learning.
+**Author:** Cristiane de Andrade Coutinho  
+**Course:** Advanced Data Techniques  
+**University:** Catholic University of Salta (UCASAL)  
+**LinkedIn:** https://www.linkedin.com/in/YOUR-LINK-HERE
+
+## Sobre o Projeto
+
+Este repositório contém um projeto acadêmico desenvolvido durante meu intercâmbio academico na Argentina, como parte da disciplina Técnicas Avançadas de Dados, na qual estudei conceitos teóricos e práticos de Machine Learning.
 
 Como projeto final da disciplina, foi necessário desenvolver uma solução completa de ciência de dados, incluindo:
 - Análise exploratória dos dados  
 - Construção e avaliação de modelos de Machine Learning  
 - Elaboração de um relatório técnico detalhado
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 O principal objetivo foi desenvolver um modelo de classificação binária capaz de prever o risco cardíaco de pacientes a partir de dados clínicos reais, utilizando algoritmos de aprendizado de máquina para apoiar análises preditivas na área da saúde.
 
 O projeto possui caráter acadêmico e formativo, não sendo um artigo científico publicado nem um sistema pronto para uso clínico.
 
-## 🧠 Tecnologias e Conceitos Utilizados
+## Tecnologias e Conceitos Utilizados
 
 - **RapidMiner (Low-Code Platform)**  
 - **RapidMiner Altair®**  
@@ -23,7 +33,7 @@ O projeto possui caráter acadêmico e formativo, não sendo um artigo científi
 - Análise exploratória de dados (EDA)  
 - Avaliação de modelos e métricas de desempenho
 
-📊 **Resultado acadêmico**:
+ **Resultado acadêmico**:
 - Nota final: **9.0**
 - Avaliação realizada por professoras da disciplina
 - Feedbacks positivos sobre a abordagem, clareza do relatório e aplicação dos modelos
@@ -32,22 +42,22 @@ O projeto possui caráter acadêmico e formativo, não sendo um artigo científi
 
 # Cardiac Risk Prediction with Machine Learning
 
-## 📌 About the Project
+## About the Project
 
-This repository contains an academic project developed during my exchange program, as part of the course Advanced Data Techniques, in which I studied theoretical and practical aspects of Machine Learning.
+This repository contains an academic project developed during my exchange program in Argentina, as part of the course Advanced Data Techniques, in which I studied theoretical and practical aspects of Machine Learning.
 
 As the final project for the course, I was required to develop a complete data science solution, including:
 - Exploratory data analysis  
 - Development and evaluation of Machine Learning models  
 - Writing a technical final report
 
-## 🎯 Project Objective
+## Project Objective
 The main objective was to develop a binary classification model capable of predicting cardiac risk in patients based on real clinical data,  using machine learning algorithms to support predictive analysis in healthcare.
 
 This project has an academic and educational purpose and is not a published scientific article nor a system intended for clinical use.
 
 ---
-## 🧠 Technologies and Concepts
+## Technologies and Concepts
 
 - **RapidMiner (Low-Code Platform)**  
 - **RapidMiner Altair®**  
