@@ -9,15 +9,8 @@ Como projeto final da disciplina, foi necessário desenvolver uma solução comp
 - Construção e avaliação de modelos de Machine Learning  
 - Elaboração de um relatório técnico detalhado
 
-O projeto teve como objetivo a predição de risco cardíaco a partir de dados clínicos, utilizando algoritmos de aprendizado de máquina para apoiar análises preditivas na área da saúde.
-
-📊 **Resultado acadêmico**:
-- Nota final: **9.0**
-- Avaliação realizada por professoras da disciplina
-- Feedbacks positivos sobre a abordagem, clareza do relatório e aplicação dos modelos
-
 ## 🎯 Objetivo do Projeto
-O principal objetivo foi desenvolver um modelo de classificação binária capaz de prever o risco cardíaco de pacientes a partir de dados clínicos reais, utilizando técnicas de aprendizado de máquina.
+O principal objetivo foi desenvolver um modelo de classificação binária capaz de prever o risco cardíaco de pacientes a partir de dados clínicos reais, utilizando algoritmos de aprendizado de máquina para apoiar análises preditivas na área da saúde.
 
 O projeto possui caráter acadêmico e formativo, não sendo um artigo científico publicado nem um sistema pronto para uso clínico.
 
@@ -29,6 +22,11 @@ O projeto possui caráter acadêmico e formativo, não sendo um artigo científi
 - Aprendizado supervisionado  
 - Análise exploratória de dados (EDA)  
 - Avaliação de modelos e métricas de desempenho
+
+📊 **Resultado acadêmico**:
+- Nota final: **9.0**
+- Avaliação realizada por professoras da disciplina
+- Feedbacks positivos sobre a abordagem, clareza do relatório e aplicação dos modelos
   
 ---
 
@@ -43,15 +41,8 @@ As the final project for the course, I was required to develop a complete data s
 - Development and evaluation of Machine Learning models  
 - Writing a technical final report
 
-The main goal of the project was cardiac risk prediction based on clinical data, using machine learning algorithms to support predictive analysis in healthcare.
-
-📊 **Academic result**:
-- Final grade: **9.0**
-- Evaluated by the course professors
-- Positive feedback regarding the methodology, clarity of the report, and model application
-
 ## 🎯 Project Objective
-The main objective was to develop a binary classification model capable of predicting cardiac risk in patients based on real clinical data, using machine learning techniques.
+The main objective was to develop a binary classification model capable of predicting cardiac risk in patients based on real clinical data,  using machine learning algorithms to support predictive analysis in healthcare.
 
 This project has an academic and educational purpose and is not a published scientific article nor a system intended for clinical use.
 
@@ -66,8 +57,7 @@ This project has an academic and educational purpose and is not a published scie
 - Model evaluation and performance metrics  
 
 ---
-
-## 📌 Project Status
-
-✔️ Completed  
-📚 Academic project  
+📊 **Academic result**:
+- Final grade: **9.0**
+- Evaluated by the course professors
+- Positive feedback regarding the methodology, clarity of the report, and model application
