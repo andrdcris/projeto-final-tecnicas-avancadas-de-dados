@@ -1,14 +1,9 @@
 # Predição de Risco Cardíaco com Machine Learning
 
-**Autora:** Cristiane de Andrade Coutinho  
-**Disciplina:** Técnicas Avançadas de Dados  
-**Universidade:** Universidad Católica de Salta (UCASAL) 
-**LinkedIn:** https://www.linkedin.com/in/SEU-LINK-AQUI
-
 **Author:** Cristiane de Andrade Coutinho  
 **Course:** Advanced Data Techniques  
 **University:** Catholic University of Salta (UCASAL)  
-**LinkedIn:** https://www.linkedin.com/in/YOUR-LINK-HERE
+**LinkedIn:** [Cristiane Coutinho](https://www.linkedin.com/in/cristianeacoutinho/)
 
 ## Sobre o Projeto
 
